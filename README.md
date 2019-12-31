@@ -3,9 +3,9 @@
 This file presents the artifacts used in Chapter 2 of my PhD thesis, which provides a BPMN-based Framework for Detecting Conflicts between Security, Data-minimization and Fairness Requirements. This framework is a sub-framework of the proposed MoPriveFair methodology in my thesis. My submission includes
 a prototypical implementation of my work on top of STS, the supporting
 tool for the BPMN extension [SecBPMN2](http://www.secbpmn.disi.unitn.it/), whose security requirements
-we reused. The implementation supports : First,
+we reused. The implementation supports: First,
 the modeling of security, data-minimization and fairness requirements in BPMN models, using
-a suitable model editor. Second, formulating security, data-minimization and fairness requirments as SecBPMN2-Q queries 
+a suitable model editor. Second, formulating security, data-minimization and fairness requirements as SecBPMN2-Q queries 
 that can be verified against security-, data-minimization- and fairness-annotated BPMN model for alignment verification purpose.
 Third, automated conflict analysis in data-minimization-, security-, and fairness-annotated BPMN models, 
 based on our catalog of anti-patterns.
