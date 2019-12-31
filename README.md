@@ -1,4 +1,4 @@
-# BPMN-based Framework for Detecting Conflicts between Security, Data-minimization and Fairness Requirements
+# Chapter 2 of the PhD Thesis: BPMN-based Framework for Detecting Conflicts between Data Protection Requirements
 
 This file presents the artifacts used in Chapter 2 of my PhD thesis, which provides a BPMN-based Framework for Detecting Conflicts between Security, Data-minimization and Fairness Requirements. My submission includes
 a prototypical implementation of my work on top of STS, the supporting
