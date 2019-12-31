@@ -1,4 +1,4 @@
-# BPMN-based Framework for Detecting Conflicts: A Sub-Framework of the MoPrivFair 
+# BPMN-based Framework for Detecting Conflicts: A Sub-Framework of the MoPrivFair Methodology
 
 This file presents the artifacts used in Chapter 2 of my PhD thesis, which provides a BPMN-based Framework for Detecting Conflicts between Security, Data-minimization and Fairness Requirements. This framework is a sub-framework of the proposed MoPriveFair methodology in my thesis. My submission includes
 a prototypical implementation of my work on top of STS, the supporting
