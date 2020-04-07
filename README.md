@@ -13,7 +13,7 @@ based on our catalog of anti-patterns.
 # Resources
 
 * **Artifact: a healthcare case study and a catalog of domain-independent anti-patterns:** https://github.com/QRamadan/MoPrivFair-ConflictsDetection/blob/master/Telemedicine.exp
-* **Artifact: Mirrors of the STS-tool current versions:** http://www.sts-tool.eu/downloads/secbpmn-dm/
+* **Artifact: Mirrors of the STS-tool current versions:** http://www.sts-tool.eu/downloads/secbpmn-dm
 * **The Experimental Evaluation Artifacts: for transparency we share all our experimental materials:** https://github.com/QRamadan/MoPrivFair-ConflictsDetection/blob/master/ExperimentalArtifacts.zip
 
 ## Performing automatic conflicts detection. 
